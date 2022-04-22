@@ -238,7 +238,6 @@ const checkResult = () => {
     });
     r++
 }
-
 resultCheck.addEventListener('click', checkResult)
 
 
